@@ -8,11 +8,11 @@ The goal is to build a simple multilayer perceptron (neural network) model from 
 **The only library used:**
 Only NumPy will be used to build our model. Matplotlib and time libraries are non-mandotory and only used for visualisation and model training time purposes.
 
-'''python
+```python
 import numpy as np  # for linear algebra operations
 import matplotlib.pyplot as plt  # for some plots
 import time # to check how long it takes our final model to train
-'''
+
 
 ### Training and testing our model on a simple visualisation task:
 We train our model on the MNIST dataset which is a large database of handwritten digits that is often used for training image processing models. The train our model to effectively learn to recognise the digits 0 through to 9.
