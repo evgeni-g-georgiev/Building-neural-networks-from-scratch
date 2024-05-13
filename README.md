@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt  # for some plots
 import time # to check how long it takes our final model to train
 ```
 
-
 ### Training and testing our model on a simple visualisation task:
 We train our model on the MNIST dataset which is a large database of handwritten digits that is often used for training image processing models. The train our model to effectively learn to recognise the digits 0 through to 9.
 
