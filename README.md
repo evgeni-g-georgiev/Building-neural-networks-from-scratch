@@ -11,7 +11,8 @@ Only NumPy will be used to build our model. Matplotlib and time libraries are no
 ```python
 import numpy as np  # for linear algebra operations
 import matplotlib.pyplot as plt  # for some plots
-import time # to check how long it takes our final model to train```
+import time # to check how long it takes our final model to train
+```
 
 
 ### Training and testing our model on a simple visualisation task:
